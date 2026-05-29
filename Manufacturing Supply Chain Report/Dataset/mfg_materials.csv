@@ -1,0 +1,101 @@
+MaterialID,MaterialName,Category,StandardCost
+1,Material_1,Raw Material,66
+2,Material_2,Component,145
+3,Material_3,Component,113
+4,Material_4,Raw Material,85
+5,Material_5,Packaging,138
+6,Material_6,Component,81
+7,Material_7,Packaging,192
+8,Material_8,Component,94
+9,Material_9,Component,18
+10,Material_10,Packaging,99
+11,Material_11,Component,58
+12,Material_12,Component,136
+13,Material_13,Packaging,43
+14,Material_14,Component,76
+15,Material_15,Component,29
+16,Material_16,Component,81
+17,Material_17,Packaging,164
+18,Material_18,Raw Material,191
+19,Material_19,Packaging,195
+20,Material_20,Raw Material,170
+21,Material_21,Component,124
+22,Material_22,Raw Material,57
+23,Material_23,Packaging,199
+24,Material_24,Packaging,160
+25,Material_25,Component,135
+26,Material_26,Raw Material,154
+27,Material_27,Component,100
+28,Material_28,Component,170
+29,Material_29,Packaging,76
+30,Material_30,Raw Material,66
+31,Material_31,Raw Material,189
+32,Material_32,Raw Material,10
+33,Material_33,Raw Material,36
+34,Material_34,Component,103
+35,Material_35,Component,142
+36,Material_36,Packaging,135
+37,Material_37,Component,191
+38,Material_38,Component,80
+39,Material_39,Packaging,181
+40,Material_40,Packaging,63
+41,Material_41,Packaging,35
+42,Material_42,Component,97
+43,Material_43,Component,73
+44,Material_44,Packaging,194
+45,Material_45,Packaging,56
+46,Material_46,Packaging,93
+47,Material_47,Component,131
+48,Material_48,Component,173
+49,Material_49,Raw Material,35
+50,Material_50,Component,88
+51,Material_51,Component,131
+52,Material_52,Component,154
+53,Material_53,Packaging,136
+54,Material_54,Component,17
+55,Material_55,Packaging,49
+56,Material_56,Raw Material,131
+57,Material_57,Raw Material,174
+58,Material_58,Packaging,118
+59,Material_59,Packaging,181
+60,Material_60,Packaging,24
+61,Material_61,Component,85
+62,Material_62,Raw Material,186
+63,Material_63,Packaging,168
+64,Material_64,Component,133
+65,Material_65,Raw Material,147
+66,Material_66,Component,21
+67,Material_67,Raw Material,156
+68,Material_68,Component,62
+69,Material_69,Raw Material,76
+70,Material_70,Raw Material,113
+71,Material_71,Component,27
+72,Material_72,Packaging,178
+73,Material_73,Raw Material,76
+74,Material_74,Packaging,12
+75,Material_75,Component,63
+76,Material_76,Packaging,115
+77,Material_77,Packaging,191
+78,Material_78,Packaging,17
+79,Material_79,Packaging,171
+80,Material_80,Packaging,160
+81,Material_81,Raw Material,193
+82,Material_82,Raw Material,20
+83,Material_83,Raw Material,123
+84,Material_84,Component,6
+85,Material_85,Packaging,149
+86,Material_86,Raw Material,34
+87,Material_87,Component,107
+88,Material_88,Raw Material,17
+89,Material_89,Raw Material,100
+90,Material_90,Packaging,98
+91,Material_91,Component,86
+92,Material_92,Packaging,17
+93,Material_93,Packaging,175
+94,Material_94,Raw Material,98
+95,Material_95,Packaging,153
+96,Material_96,Component,116
+97,Material_97,Packaging,59
+98,Material_98,Packaging,85
+99,Material_99,Packaging,172
+100,Material_100,Raw Material,120
